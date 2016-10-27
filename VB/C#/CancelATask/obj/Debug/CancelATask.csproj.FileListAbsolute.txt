@@ -1,0 +1,25 @@
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\CancelATask\bin\Debug\CancelATask.exe.config
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\CancelATask\obj\Debug\CancelATask.csprojResolveAssemblyReference.cache
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\CancelATask\obj\Debug\MainWindow.baml
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\CancelATask\obj\Debug\MainWindow.g.cs
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\CancelATask\obj\Debug\App.g.cs
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\CancelATask\obj\Debug\CancelATask_MarkupCompile.cache
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\CancelATask\obj\Debug\CancelATask.g.resources
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\CancelATask\obj\Debug\CancelATask.csproj.GenerateResource.Cache
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\CancelATask\bin\Debug\CancelATask.exe
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\CancelATask\bin\Debug\CancelATask.pdb
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\CancelATask\obj\Debug\CancelATask.exe
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\CancelATask\obj\Debug\CancelATask.pdb
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\CancelATask\obj\Debug\CancelAListOfTasks.Properties.Resources.resources
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\CancelATask\bin\Debug\CancelATask.exe.config
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\CancelATask\bin\Debug\CancelATask.exe
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\CancelATask\bin\Debug\CancelATask.pdb
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\CancelATask\obj\Debug\MainWindow.baml
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\CancelATask\obj\Debug\MainWindow.g.cs
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\CancelATask\obj\Debug\App.g.cs
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\CancelATask\obj\Debug\CancelATask_MarkupCompile.cache
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\CancelATask\obj\Debug\CancelATask.g.resources
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\CancelATask\obj\Debug\CancelAListOfTasks.Properties.Resources.resources
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\CancelATask\obj\Debug\CancelATask.csproj.GenerateResource.Cache
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\CancelATask\obj\Debug\CancelATask.exe
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\CancelATask\obj\Debug\CancelATask.pdb

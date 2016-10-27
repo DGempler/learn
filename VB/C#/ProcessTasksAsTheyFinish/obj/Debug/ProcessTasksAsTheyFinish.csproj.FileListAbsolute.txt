@@ -1,0 +1,25 @@
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\ProcessTasksAsTheyFinish\bin\Debug\ProcessTasksAsTheyFinish.exe.config
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\ProcessTasksAsTheyFinish\bin\Debug\ProcessTasksAsTheyFinish.exe
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\ProcessTasksAsTheyFinish\bin\Debug\ProcessTasksAsTheyFinish.pdb
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\ProcessTasksAsTheyFinish.csprojResolveAssemblyReference.cache
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\MainWindow.baml
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\MainWindow.g.cs
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\App.g.cs
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\ProcessTasksAsTheyFinish_MarkupCompile.cache
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\ProcessTasksAsTheyFinish.g.resources
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\ProcessTasksAsTheyFinish.Properties.Resources.resources
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\ProcessTasksAsTheyFinish.csproj.GenerateResource.Cache
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\ProcessTasksAsTheyFinish.exe
+\\sahnnyj09\RemoteAccess\Consumption Side\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\ProcessTasksAsTheyFinish.pdb
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\ProcessTasksAsTheyFinish\bin\Debug\ProcessTasksAsTheyFinish.exe.config
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\ProcessTasksAsTheyFinish\bin\Debug\ProcessTasksAsTheyFinish.exe
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\ProcessTasksAsTheyFinish\bin\Debug\ProcessTasksAsTheyFinish.pdb
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\MainWindow.baml
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\MainWindow.g.cs
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\App.g.cs
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\ProcessTasksAsTheyFinish_MarkupCompile.cache
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\ProcessTasksAsTheyFinish.g.resources
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\ProcessTasksAsTheyFinish.Properties.Resources.resources
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\ProcessTasksAsTheyFinish.csproj.GenerateResource.Cache
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\ProcessTasksAsTheyFinish.exe
+\\sahnnyj09\RemoteAccess\Async projects without snippet tags\Post on MSDN\AsyncFineTuningCS\ProcessTasksAsTheyFinish\obj\Debug\ProcessTasksAsTheyFinish.pdb
