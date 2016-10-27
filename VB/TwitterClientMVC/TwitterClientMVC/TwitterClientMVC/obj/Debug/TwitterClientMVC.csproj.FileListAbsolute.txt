@@ -1,1 +1,0 @@
-C:\Code\VB\TwitterClientMVC\TwitterClientMVC\TwitterClientMVC\obj\Debug\TwitterClientMVC.csprojResolveAssemblyReference.cache

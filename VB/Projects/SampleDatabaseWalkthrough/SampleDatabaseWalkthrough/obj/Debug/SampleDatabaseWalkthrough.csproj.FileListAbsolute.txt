@@ -1,1 +1,0 @@
-C:\Code\VB\Projects\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config

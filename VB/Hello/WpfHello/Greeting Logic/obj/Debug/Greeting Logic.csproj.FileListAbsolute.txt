@@ -1,5 +1,0 @@
-C:\Code\VB\Hello\WpfHello\Greeting Logic\bin\Debug\Greeting Logic.dll
-C:\Code\VB\Hello\WpfHello\Greeting Logic\bin\Debug\Greeting Logic.pdb
-C:\Code\VB\Hello\WpfHello\Greeting Logic\obj\Debug\Greeting Logic.csprojResolveAssemblyReference.cache
-C:\Code\VB\Hello\WpfHello\Greeting Logic\obj\Debug\Greeting Logic.dll
-C:\Code\VB\Hello\WpfHello\Greeting Logic\obj\Debug\Greeting Logic.pdb
