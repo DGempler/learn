@@ -51,7 +51,7 @@ var UrgentTask = function(name, priority) {
 };
 UrgentTask.prototype = Object.create(Task.prototype);
 
-// now modify prototype methods
+// now add prototype methods to UrgentTask that won't get added to Task prototype methods
 UrgentTask.prototype.notify = function() {
     console.log('notifying important people');
 };
