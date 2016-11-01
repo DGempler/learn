@@ -68,7 +68,7 @@ var Task = function(data) {
     // this.flyweight.priority;
 // }
 
-    function Flyweight(project, priority, user, completed) {
+function Flyweight(project, priority, user, completed) {
     this.priority = priority;
     this.project = project;
     this.user = user;
